@@ -54,7 +54,7 @@ const IconWrapper = styled.div`
 	top: 0;
 	bottom: 0;
 	margin: auto 0;
-	height: ${p => p.iconSize + 'px'};
+	height: ${p => p.size + 'px'};
 `;
 
 const TextInput = styled.input`
